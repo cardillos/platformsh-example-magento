@@ -92,4 +92,4 @@ variables:
         ADMIN_FIRSTNAME: "larvy"
         ADMIN_LASTNAME: "shab"
         ADMIN_EMAIL: "cherrymae316@gamil.com"
-        ADMIN_PASSWORD: (defaults to “admin12”)
+        ADMIN_PASSWORD: "admin12345"
