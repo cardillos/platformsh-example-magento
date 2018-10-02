@@ -85,3 +85,11 @@ crons:
     cronrun:
         spec: "*/1 * * * *"
         cmd: "php bin/magento cron:run"
+
+variables:
+    env:
+        ADMIN_USERNAME: "admin"
+        ADMIN_FIRSTNAME: "larvy"
+        ADMIN_LASTNAME: "shab"
+        ADMIN_EMAIL: "cherrymae316@gamil.com"
+        ADMIN_PASSWORD: (defaults to “admin12”)
